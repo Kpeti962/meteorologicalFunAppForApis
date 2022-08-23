@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/meteorologicalFunAppForApis/static/css/main.40509970.css",
+    "main.js": "/meteorologicalFunAppForApis/static/js/main.47b39aa2.js",
+    "static/js/787.08afe664.chunk.js": "/meteorologicalFunAppForApis/static/js/787.08afe664.chunk.js",
+    "static/media/hungary.png": "/meteorologicalFunAppForApis/static/media/hungary.9b7ca9cef6401f080954.png",
+    "index.html": "/meteorologicalFunAppForApis/index.html",
+    "main.40509970.css.map": "/meteorologicalFunAppForApis/static/css/main.40509970.css.map",
+    "main.47b39aa2.js.map": "/meteorologicalFunAppForApis/static/js/main.47b39aa2.js.map",
+    "787.08afe664.chunk.js.map": "/meteorologicalFunAppForApis/static/js/787.08afe664.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40509970.css",
+    "static/js/main.47b39aa2.js"
+  ]
+}
