@@ -19,7 +19,7 @@ function App() {
   useEffect(() => {
     axios
       .get(
-        "http://api.weatherapi.com/v1/current.json?key=ced6e8ed8bb849b68d5125646221907&q=Szeged&aqi=no"
+        "https://api.weatherapi.com/v1/current.json?key=ced6e8ed8bb849b68d5125646221907&q=Szeged&aqi=no"
       )
       .then((data) => {
         setWeather(data.data);
@@ -33,7 +33,7 @@ function App() {
   useEffect(() => {
     axios
       .get(
-        "http://api.weatherapi.com/v1/current.json?key=ced6e8ed8bb849b68d5125646221907&q=Pecs&aqi=no"
+        "https://api.weatherapi.com/v1/current.json?key=ced6e8ed8bb849b68d5125646221907&q=Pecs&aqi=no"
       )
       .then((data) => {
         setWeather1(data.data);
@@ -43,7 +43,7 @@ function App() {
   useEffect(() => {
     axios
       .get(
-        "http://api.weatherapi.com/v1/current.json?key=ced6e8ed8bb849b68d5125646221907&q=Keszthely&aqi=no"
+        "https://api.weatherapi.com/v1/current.json?key=ced6e8ed8bb849b68d5125646221907&q=Keszthely&aqi=no"
       )
       .then((data) => {
         setWeather2(data.data);
@@ -53,7 +53,7 @@ function App() {
   useEffect(() => {
     axios
       .get(
-        "http://api.weatherapi.com/v1/current.json?key=ced6e8ed8bb849b68d5125646221907&q=Szombathely&aqi=no"
+        "https://api.weatherapi.com/v1/current.json?key=ced6e8ed8bb849b68d5125646221907&q=Szombathely&aqi=no"
       )
       .then((data) => {
         setWeather3(data.data);
@@ -63,7 +63,7 @@ function App() {
   useEffect(() => {
     axios
       .get(
-        "http://api.weatherapi.com/v1/current.json?key=ced6e8ed8bb849b68d5125646221907&q=Sopron&aqi=no"
+        "https://api.weatherapi.com/v1/current.json?key=ced6e8ed8bb849b68d5125646221907&q=Sopron&aqi=no"
       )
       .then((data) => {
         setWeather4(data.data);
@@ -73,7 +73,7 @@ function App() {
   useEffect(() => {
     axios
       .get(
-        "http://api.weatherapi.com/v1/current.json?key=ced6e8ed8bb849b68d5125646221907&q=Gyor&aqi=no"
+        "https://api.weatherapi.com/v1/current.json?key=ced6e8ed8bb849b68d5125646221907&q=Gyor&aqi=no"
       )
       .then((data) => {
         setWeather5(data.data);
@@ -83,7 +83,7 @@ function App() {
   useEffect(() => {
     axios
       .get(
-        "http://api.weatherapi.com/v1/current.json?key=ced6e8ed8bb849b68d5125646221907&q=Szekesfehervar&aqi=no"
+        "https://api.weatherapi.com/v1/current.json?key=ced6e8ed8bb849b68d5125646221907&q=Szekesfehervar&aqi=no"
       )
       .then((data) => {
         setWeather6(data.data);
@@ -93,7 +93,7 @@ function App() {
   useEffect(() => {
     axios
       .get(
-        "http://api.weatherapi.com/v1/current.json?key=ced6e8ed8bb849b68d5125646221907&q=Budapest&aqi=no"
+        "https://api.weatherapi.com/v1/current.json?key=ced6e8ed8bb849b68d5125646221907&q=Budapest&aqi=no"
       )
       .then((data) => {
         setWeather7(data.data);
@@ -103,7 +103,7 @@ function App() {
   useEffect(() => {
     axios
       .get(
-        "http://api.weatherapi.com/v1/current.json?key=ced6e8ed8bb849b68d5125646221907&q=Szolnok&aqi=no"
+        "https://api.weatherapi.com/v1/current.json?key=ced6e8ed8bb849b68d5125646221907&q=Szolnok&aqi=no"
       )
       .then((data) => {
         setWeather8(data.data);
@@ -113,7 +113,7 @@ function App() {
   useEffect(() => {
     axios
       .get(
-        "http://api.weatherapi.com/v1/current.json?key=ced6e8ed8bb849b68d5125646221907&q=Miskolc&aqi=no"
+        "https://api.weatherapi.com/v1/current.json?key=ced6e8ed8bb849b68d5125646221907&q=Miskolc&aqi=no"
       )
       .then((data) => {
         setWeather9(data.data);
@@ -123,7 +123,7 @@ function App() {
   useEffect(() => {
     axios
       .get(
-        "http://api.weatherapi.com/v1/current.json?key=ced6e8ed8bb849b68d5125646221907&q=Debrecen&aqi=no"
+        "https://api.weatherapi.com/v1/current.json?key=ced6e8ed8bb849b68d5125646221907&q=Debrecen&aqi=no"
       )
       .then((data) => {
         setWeather10(data.data);
