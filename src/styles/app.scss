@@ -143,3 +143,325 @@
     border-radius: 20px;
 }
 
+
+@media screen and (max-width: 1210px) {
+    .szeged {
+        font-size: smaller;
+        width: 60px;
+        height: 40px;
+        position: absolute;
+        top: 77%;
+        left: 55%;
+        background: lightgray;
+        border-radius: 20px;
+       img{
+          width:40px;
+       }
+      }
+      
+      .pecs {
+        font-size: small;  
+        width: 60px;
+          position: absolute;
+          top:84%;
+          left:28%;
+          background: lightgray;
+          border-radius: 20px;
+          img{
+             width:40px;
+          }
+      }
+      
+      .keszthely {
+          img{
+             width:40px;
+          }
+          font-size: small;
+          width: 60px;
+          position: absolute;
+          top:60%;
+          left:15%;
+          background: lightgray;
+          border-radius: 20px;
+      }
+      .szombathely {
+          img{
+             width:40px;
+          }
+          font-size: small;
+          width: 60px;
+          position: absolute;
+          top:40%;
+          left:5%;
+          background: lightgray;
+          border-radius: 20px;
+      }
+      
+      .sopron {
+          img{
+             width:40px;
+          }
+          font-size: small;
+          width: 60px;
+          position: absolute;
+          top:22%;
+          left:7%;
+          background: lightgray;
+          border-radius: 20px;
+      }
+      
+      .gyor {
+          img{
+             width:40px;
+          }
+          font-size: small;
+          width: 60px;
+          position: absolute;
+          top:29%;
+          left:20%;
+          background: lightgray;
+          border-radius: 20px;
+      }
+      
+      .szekesfehervar {
+          img{
+             width:40px;
+          }
+          font-size: small;
+          width: 60px;
+          position: absolute;
+          top:44%;
+          left:30%;
+          background: lightgray;
+          border-radius: 20px;
+      }
+      
+      .budapest {
+          img{
+             width:40px;
+          }
+          font-size: small;
+          width: 60px;
+          position: absolute;
+          top:34%;
+          left:42%;
+          background: lightgray;
+          border-radius: 20px;
+      }
+      
+      .szolnok {
+          img{
+             width:40px;
+          }
+          font-size: small;
+          width: 60px;
+          position: absolute;
+          top:47%;
+          left:58%;
+          background: lightgray;
+          border-radius: 20px;
+      }
+      
+      .miskolc {
+          img{
+             width:40px;
+          }
+          font-size: small;
+          width: 60px;
+          position: absolute;
+          top:14%;
+          left:64%;
+          background: lightgray;
+          border-radius: 20px;
+      }
+      
+      .debrecen {
+          img{
+             width:40px;
+          }
+          font-size: small;
+          width: 60px;
+          position: absolute;
+          top:34%;
+          left:75%;
+          background: lightgray;
+          border-radius: 20px;
+      }
+}
+
+@media screen and (max-width: 1085px) {
+    .szeged {
+        font-size: smaller;
+        width: 60px;
+        position: absolute;
+        top: 77%;
+        left: 55%;
+        background:none;
+        border-radius: 20px;
+       img{
+          width:40px;
+       }
+       h6{
+        display: none;
+       }
+      }
+      
+      .pecs {
+        font-size: smaller;  
+        width: 60px;
+          position: absolute;
+          top:84%;
+          left:28%;
+          background:none;
+          border-radius: 20px;
+          img{
+             width:40px;
+          }
+          h6{
+            display: none;
+          }
+      }
+      
+      .keszthely {
+          img{
+             width:40px;
+          }
+          h6{
+            display: none;
+          }
+          font-size: smaller;
+          width: 60px;
+          position: absolute;
+          top:60%;
+          left:15%;
+          background:none;
+          border-radius: 20px;
+      }
+      .szombathely {
+          img{
+             width:40px;
+          }
+          h6{
+            display: none;
+          }
+          font-size: smaller;
+          width: 60px;
+          position: absolute;
+          top:40%;
+          left:5%;
+          background:none;
+          border-radius: 20px;
+      }
+      
+      .sopron {
+          img{
+             width:40px;
+          }
+          h6{
+            display: none;
+          }
+          font-size: smaller;
+          width: 60px;
+          position: absolute;
+          top:22%;
+          left:7%;
+          background:none;
+          border-radius: 20px;
+      }
+      
+      .gyor {
+          img{
+             width:40px;
+          }
+          h6{
+            display: none;
+          }
+          font-size: smaller;
+          width: 60px;
+          position: absolute;
+          top:29%;
+          left:20%;
+          background:none;
+          border-radius: 20px;
+      }
+      
+      .szekesfehervar {
+          img{
+             width:40px;
+          }
+          h6{
+            display: none;
+          }
+          font-size: smaller;
+          width: 60px;
+          position: absolute;
+          top:44%;
+          left:30%;
+          background:none;
+          border-radius: 20px;
+      }
+      
+      .budapest {
+          img{
+             width:40px;
+          }
+          h6{
+            display: none;
+          }
+          font-size: smaller;
+          width: 60px;
+          position: absolute;
+          top:34%;
+          left:42%;
+          background:none;
+          border-radius: 20px;
+      }
+      
+      .szolnok {
+          img{
+             width:40px;
+          }
+          h6{
+            display: none;
+          }
+          font-size: smaller;
+          width: 60px;
+          position: absolute;
+          top:47%;
+          left:58%;
+          background:none;
+          border-radius: 20px;
+      }
+      
+      .miskolc {
+          img{
+             width:40px;
+          }
+          h6{
+            display: none;
+          }
+          font-size: smaller;
+          width: 60px;
+          position: absolute;
+          top:14%;
+          left:64%;
+          background:none;
+          border-radius: 20px;
+      }
+      
+      .debrecen {
+          img{
+             width:40px;
+          }
+          h6{
+            display: none;
+          }
+          font-size: smaller;
+          width: 60px;
+          position: absolute;
+          top:34%;
+          left:75%;
+          background:none;
+          border-radius: 20px;
+      }
+}

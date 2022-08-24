@@ -148,69 +148,69 @@ function App() {
             <img className="country" src={hungary} alt="" />
             <div className="szeged">
               <h5>{weather.location.name}</h5>
-              <h5>{weather.current.temp_c}</h5>
+              <h5>{weather.current.temp_c}°C</h5>
               <img src={weather.current.condition.icon} alt="" />
-              <h5>{weather.current.condition.text}</h5>
+              <h6>{weather.current.condition.text}</h6>
             </div>
             <div className="pecs">
               <h5>{weather1.location.name}</h5>
-              <h5>{weather1.current.temp_c}</h5>
+              <h5>{weather1.current.temp_c}°C</h5>
               <img src={weather1.current.condition.icon} alt="" />
-              <h5>{weather1.current.condition.text}</h5>
+              <h6>{weather1.current.condition.text}</h6>
             </div>
             <div className="keszthely">
               <h5>{weather2.location.name}</h5>
-              <h5>{weather2.current.temp_c}</h5>
+              <h5>{weather2.current.temp_c}°C</h5>
               <img src={weather2.current.condition.icon} alt="" />
-              <h5>{weather2.current.condition.text}</h5>
+              <h6>{weather2.current.condition.text}</h6>
             </div>
             <div className="szombathely">
               <h5>{weather3.location.name}</h5>
-              <h5>{weather3.current.temp_c}</h5>
+              <h5>{weather3.current.temp_c}°C</h5>
               <img src={weather3.current.condition.icon} alt="" />
-              <h5>{weather3.current.condition.text}</h5>
+              <h6>{weather3.current.condition.text}</h6>
             </div>
             <div className="sopron">
               <h5>{weather4.location.name}</h5>
-              <h5>{weather4.current.temp_c}</h5>
+              <h5>{weather4.current.temp_c}°C</h5>
               <img src={weather4.current.condition.icon} alt="" />
-              <h5>{weather4.current.condition.text}</h5>
+              <h6>{weather4.current.condition.text}</h6>
             </div>
             <div className="gyor">
               <h5>{weather5.location.name}</h5>
-              <h5>{weather5.current.temp_c}</h5>
+              <h5>{weather5.current.temp_c}°C</h5>
               <img src={weather5.current.condition.icon} alt="" />
-              <h5>{weather5.current.condition.text}</h5>
+              <h6>{weather5.current.condition.text}</h6>
             </div>
             <div className="szekesfehervar">
               <h5>{weather6.location.name}</h5>
-              <h5>{weather6.current.temp_c}</h5>
+              <h5>{weather6.current.temp_c}°C</h5>
               <img src={weather6.current.condition.icon} alt="" />
-              <h5>{weather6.current.condition.text}</h5>
+              <h6>{weather6.current.condition.text}</h6>
             </div>
             <div className="budapest">
               <h5>{weather7.location.name}</h5>
-              <h5>{weather7.current.temp_c}</h5>
+              <h5>{weather7.current.temp_c}°C</h5>
               <img src={weather7.current.condition.icon} alt="" />
-              <h5>{weather7.current.condition.text}</h5>
+              <h6>{weather7.current.condition.text}</h6>
             </div>
             <div className="szolnok">
               <h5>{weather8.location.name}</h5>
-              <h5>{weather8.current.temp_c}</h5>
+              <h5>{weather8.current.temp_c}°C</h5>
               <img src={weather8.current.condition.icon} alt="" />
-              <h5>{weather8.current.condition.text}</h5>
+              <h6>{weather8.current.condition.text}</h6>
             </div>
             <div className="miskolc">
               <h5>{weather9.location.name}</h5>
-              <h5>{weather9.current.temp_c}</h5>
+              <h5>{weather9.current.temp_c}°C</h5>
               <img src={weather9.current.condition.icon} alt="" />
-              <h5>{weather9.current.condition.text}</h5>
+              <h6>{weather9.current.condition.text}</h6>
             </div>
             <div className="debrecen">
               <h5>{weather10.location.name}</h5>
-              <h5>{weather10.current.temp_c}</h5>
+              <h5>{weather10.current.temp_c}°C</h5>
               <img src={weather10.current.condition.icon} alt="" />
-              <h5>{weather10.current.condition.text}</h5>
+              <h6>{weather10.current.condition.text}</h6>
             </div>
           </div>
         )}
