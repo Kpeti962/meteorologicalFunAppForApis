@@ -18,33 +18,33 @@
   left: 55%;
   background: lightgray;
   border-radius: 20px;
+  
   img {
     width: 70px;
   }
-  h4{
-   margin-top: 15px;
-   text-align: center;
+  h4 {
+    margin-top: 15px;
+    text-align: center;
   }
 
   cursor: pointer;
   .openModal {
-   
-     button{
-      width:100px;
+    button {
+      width: 100px;
       margin-top: 30px;
-   }
-    width: 100%;
-    height: 100vh;
-    top: 0;
-    left: 0;
-    
-
+    }
+  
+    width: 50%;
+    height: 80%;
+    top: 10%;
+    left: 25%;
     position: fixed;
     background: rgb(163, 161, 161);
     z-index: 15;
     opacity: 0.9;
     border-radius: 20px;
   }
+
   .overlay {
     background: gray;
   }
@@ -60,20 +60,20 @@
   img {
     width: 70px;
   }
-  h4{
-   margin-top: 15px;
-   text-align: center;
+  h4 {
+    margin-top: 15px;
+    text-align: center;
   }
   cursor: pointer;
   .openModal {
-     button{
-      width:100px;
+    button {
+      width: 100px;
       margin-top: 30px;
-   }
-    width: 100%;
-    height: 100vh;
-    top: 0;
-    left: 0;
+    }
+    width: 50%;
+    height: 80%;
+    top: 10%;
+    left: 25%;
 
     position: fixed;
     background: rgb(163, 161, 161);
@@ -81,6 +81,7 @@
     opacity: 0.9;
     border-radius: 20px;
   }
+
   .overlay {
     background: gray;
   }
@@ -90,26 +91,26 @@
   img {
     width: 70px;
   }
-  h4{
-   margin-top: 15px;
-   text-align: center;
+  h4 {
+    margin-top: 15px;
+    text-align: center;
   }
-  width: 80px;
   position: absolute;
+  width: 80px;
   top: 60%;
   left: 15%;
   background: lightgray;
   border-radius: 20px;
   cursor: pointer;
   .openModal {
-     button{
-      width:100px;
+    button {
+      width: 100px;
       margin-top: 30px;
-   }
-    width: 100%;
-    height: 100vh;
-    top: 0;
-    left: 0;
+    }
+    width: 50%;
+    height: 80%;
+    top: 10%;
+    left: 25%;
 
     position: fixed;
     background: rgb(163, 161, 161);
@@ -117,6 +118,7 @@
     opacity: 0.9;
     border-radius: 20px;
   }
+
   .overlay {
     background: gray;
   }
@@ -125,9 +127,9 @@
   img {
     width: 70px;
   }
-  h4{
-   margin-top: 15px;
-   text-align: center;
+  h4 {
+    margin-top: 15px;
+    text-align: center;
   }
   width: 110px;
   position: absolute;
@@ -137,14 +139,14 @@
   border-radius: 20px;
   cursor: pointer;
   .openModal {
-     button{
-      width:100px;
+    button {
+      width: 100px;
       margin-top: 30px;
-   }
-    width: 100%;
-    height: 100vh;
-    top: 0;
-    left: 0;
+    }
+    width: 50%;
+    height: 80%;
+    top: 10%;
+    left: 25%;
 
     position: fixed;
     background: rgb(163, 161, 161);
@@ -152,6 +154,7 @@
     opacity: 0.9;
     border-radius: 20px;
   }
+
   .overlay {
     background: gray;
   }
@@ -161,9 +164,9 @@
   img {
     width: 70px;
   }
-  h4{
-   margin-top: 15px;
-   text-align: center;
+  h4 {
+    margin-top: 15px;
+    text-align: center;
   }
   width: 80px;
   position: absolute;
@@ -173,14 +176,14 @@
   border-radius: 20px;
   cursor: pointer;
   .openModal {
-     button{
-      width:100px;
+    button {
+      width: 100px;
       margin-top: 30px;
-   }
-    width: 100%;
-    height: 100%;
-    top: 0;
-    left: 0;
+    }
+    width: 50%;
+    height: 80%;
+    top: 10%;
+    left: 25%;
 
     position: fixed;
     background: rgb(163, 161, 161);
@@ -188,6 +191,7 @@
     opacity: 0.9;
     border-radius: 20px;
   }
+
   .overlay {
     background: gray;
   }
@@ -197,9 +201,9 @@
   img {
     width: 70px;
   }
-  h4{
-   margin-top: 15px;
-   text-align: center;
+  h4 {
+    margin-top: 15px;
+    text-align: center;
   }
   width: 80px;
   position: absolute;
@@ -209,14 +213,14 @@
   border-radius: 20px;
   cursor: pointer;
   .openModal {
-     button{
-      width:100px;
+    button {
+      width: 100px;
       margin-top: 30px;
-   }
-    width: 100%;
-    height: 100vh;
-    top: 0;
-    left: 0;
+    }
+    width: 50%;
+    height: 80%;
+    top: 10%;
+    left: 25%;
 
     position: fixed;
     background: rgb(163, 161, 161);
@@ -224,6 +228,7 @@
     opacity: 0.9;
     border-radius: 20px;
   }
+
   .overlay {
     background: gray;
   }
@@ -233,9 +238,9 @@
   img {
     width: 70px;
   }
-  h4{
-   margin-top: 15px;
-   text-align: center;
+  h4 {
+    margin-top: 15px;
+    text-align: center;
   }
   width: 140px;
   position: absolute;
@@ -245,14 +250,14 @@
   border-radius: 20px;
   cursor: pointer;
   .openModal {
-     button{
-      width:100px;
+    button {
+      width: 100px;
       margin-top: 30px;
-   }
-    width: 100%;
-    height: 100vh;
-    top: 0;
-    left: 0;
+    }
+    width: 50%;
+    height: 80%;
+    top: 10%;
+    left: 25%;
 
     position: fixed;
     background: rgb(163, 161, 161);
@@ -260,6 +265,7 @@
     opacity: 0.9;
     border-radius: 20px;
   }
+
   .overlay {
     background: gray;
   }
@@ -269,9 +275,9 @@
   img {
     width: 70px;
   }
-  h4{
-   margin-top: 15px;
-   text-align: center;
+  h4 {
+    margin-top: 15px;
+    text-align: center;
   }
   width: 80px;
   position: absolute;
@@ -281,14 +287,14 @@
   border-radius: 20px;
   cursor: pointer;
   .openModal {
-     button{
-      width:100px;
+    button {
+      width: 100px;
       margin-top: 30px;
-   }
-    width: 100%;
-    height: 100vh;
-    top: 0;
-    left: 0;
+    }
+    width: 50%;
+    height: 80%;
+    top: 10%;
+    left: 25%;
 
     position: fixed;
     background: rgb(163, 161, 161);
@@ -296,6 +302,7 @@
     opacity: 0.9;
     border-radius: 20px;
   }
+
   .overlay {
     background: gray;
   }
@@ -305,9 +312,9 @@
   img {
     width: 70px;
   }
-  h4{
-   margin-top: 15px;
-   text-align: center;
+  h4 {
+    margin-top: 15px;
+    text-align: center;
   }
   width: 80px;
   position: absolute;
@@ -317,14 +324,14 @@
   border-radius: 20px;
   cursor: pointer;
   .openModal {
-     button{
-      width:100px;
+    button {
+      width: 100px;
       margin-top: 30px;
-   }
-    width: 100%;
-    height: 100vh;
-    top: 0;
-    left: 0;
+    }
+    width: 50%;
+    height: 80%;
+    top: 10%;
+    left: 25%;
 
     position: fixed;
     background: rgb(163, 161, 161);
@@ -332,6 +339,7 @@
     opacity: 0.9;
     border-radius: 20px;
   }
+
   .overlay {
     background: gray;
   }
@@ -341,9 +349,9 @@
   img {
     width: 70px;
   }
-  h4{
-   margin-top: 15px;
-   text-align: center;
+  h4 {
+    margin-top: 15px;
+    text-align: center;
   }
   width: 80px;
   position: absolute;
@@ -353,14 +361,14 @@
   border-radius: 20px;
   cursor: pointer;
   .openModal {
-     button{
-      width:100px;
+    button {
+      width: 100px;
       margin-top: 30px;
-   }
-    width: 100%;
-    height: 100vh;
-    top: 0;
-    left: 0;
+    }
+    width: 50%;
+    height: 80%;
+    top: 10%;
+    left: 25%;
 
     position: fixed;
     background: rgb(163, 161, 161);
@@ -368,6 +376,7 @@
     opacity: 0.9;
     border-radius: 20px;
   }
+
   .overlay {
     background: gray;
   }
@@ -377,9 +386,9 @@
   img {
     width: 70px;
   }
-  h4{
-   margin-top: 15px;
-   text-align: center;
+  h4 {
+    margin-top: 15px;
+    text-align: center;
   }
   width: 80px;
   position: absolute;
@@ -389,14 +398,14 @@
   border-radius: 20px;
   cursor: pointer;
   .openModal {
-     button{
-      width:100px;
+    button {
+      width: 100px;
       margin-top: 30px;
-   }
-    width: 100%;
-    height: 100vh;
-    top: 0;
-    left: 0;
+    }
+    width: 50%;
+    height: 80%;
+    top: 10%;
+    left: 25%;
 
     position: fixed;
     background: rgb(163, 161, 161);
@@ -404,6 +413,7 @@
     opacity: 0.9;
     border-radius: 20px;
   }
+
   .overlay {
     background: gray;
   }
