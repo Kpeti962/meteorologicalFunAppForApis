@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/meteorologicalFunAppForApis/static/css/main.edab897e.css",
-    "main.js": "/meteorologicalFunAppForApis/static/js/main.2566b59c.js",
+    "main.css": "/meteorologicalFunAppForApis/static/css/main.bbbe5133.css",
+    "main.js": "/meteorologicalFunAppForApis/static/js/main.b9cebde7.js",
     "static/js/787.08afe664.chunk.js": "/meteorologicalFunAppForApis/static/js/787.08afe664.chunk.js",
     "static/media/hungary.png": "/meteorologicalFunAppForApis/static/media/hungary.9b7ca9cef6401f080954.png",
     "index.html": "/meteorologicalFunAppForApis/index.html",
-    "main.edab897e.css.map": "/meteorologicalFunAppForApis/static/css/main.edab897e.css.map",
-    "main.2566b59c.js.map": "/meteorologicalFunAppForApis/static/js/main.2566b59c.js.map",
+    "main.bbbe5133.css.map": "/meteorologicalFunAppForApis/static/css/main.bbbe5133.css.map",
+    "main.b9cebde7.js.map": "/meteorologicalFunAppForApis/static/js/main.b9cebde7.js.map",
     "787.08afe664.chunk.js.map": "/meteorologicalFunAppForApis/static/js/787.08afe664.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.edab897e.css",
-    "static/js/main.2566b59c.js"
+    "static/css/main.bbbe5133.css",
+    "static/js/main.b9cebde7.js"
   ]
 }
