@@ -348,6 +348,7 @@ function App() {
           </div>
         )}
       </div>
+        <h2>This app was made only for practicing the APIs.</h2>
     </div>
   );
 }
